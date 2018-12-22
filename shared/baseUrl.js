@@ -1,0 +1,1 @@
+export const baseUrl = 'http://10.170.198.84:3001/' // Arlington Wireless
